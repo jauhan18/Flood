@@ -46,4 +46,8 @@ Berdasarkan pengujian, algoritma **Linear Regression** bekerja paling optimal pa
    git clone [https://github.com/jauhan18/Flood.git](https://github.com/jauhan18/Flood.git)
 
 jika tidak ada library, install :
- pip install pandas matplotlib seaborn scikit-learn
+   ```bash
+   pip install pandas matplotlib seaborn scikit-learn
+
+
+
